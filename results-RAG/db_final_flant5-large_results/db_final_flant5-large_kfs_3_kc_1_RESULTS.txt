@@ -1,0 +1,30 @@
+EVALUATION OF results-RAG/db_final_flant5-large_results/db_final_flant5-large_kfs_3_kc_1
+########################
+########################
+Entity evaluation
+########################
+Precision:		 0.023157082207641837
+Recall (completeness):	 0.0189873417721519
+f1:			 0.020865936358894107
+EM:			 0.0
+
+########################
+Timeline evaluation
+########################
+Precision:		 0.5076228119706381
+Recall (completeness):	 0.29746050128215734
+f1:			 0.37511083294215825
+EM:			 0.006535947712418301
+
+########################
+Combined evaluation
+########################
+Precision:		 0.002701659590891548
+Recall (completeness):	 0.0022151898734177216
+f1:			 0.0024343592418709795
+EM:			 0.0
+
+for copy paste into the table:
+0.0232 & 0.0190 & 0.0209 & 0.0000
+0.5076 & 0.2975 & 0.3751 & 0.0065
+0.0027 & 0.0022 & 0.0024 & 0.0000
